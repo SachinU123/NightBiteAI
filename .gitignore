@@ -1,0 +1,18 @@
+# Environment Variables
+**/*.env
+*.env
+backend/.env
+nightbite/.env
+
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# Flutter
+nightbite/.dart_tool/
+nightbite/build/
+
+# OS
+.DS_Store
+Thumbs.dbbackend/.env 

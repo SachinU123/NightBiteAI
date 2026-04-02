@@ -1,0 +1,38 @@
+# Core
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+python-dotenv==1.0.1
+
+# Database
+sqlalchemy==2.0.36
+alembic==1.14.0
+psycopg2-binary==2.9.10
+
+# Auth
+passlib[bcrypt]==1.7.4
+python-jose[cryptography]==3.3.0
+python-multipart==0.0.18
+
+# Pydantic
+pydantic==2.10.2
+pydantic-settings==2.6.1
+
+# NLP
+spacy==3.8.2
+# Run after install: python -m spacy download en_core_web_sm
+
+# ML
+scikit-learn==1.5.2
+
+# Data
+pandas==2.2.3
+numpy==2.0.2
+
+# HTTP
+httpx==0.28.0
+
+# AI — Anthropic Claude (sole AI provider)
+anthropic==0.40.0
+
+# Utils
+python-dateutil==2.9.0.post0
