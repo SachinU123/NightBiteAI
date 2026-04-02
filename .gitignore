@@ -9,7 +9,7 @@ nightbite/build/
 
 # OS
 .DS_Store
-Thumbs.dbbackend/.env 
+Thumbs.db
 
 # Environment variables (VERY IMPORTANT)
 .env
