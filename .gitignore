@@ -1,9 +1,3 @@
-# Environment Variables
-**/*.env
-*.env
-backend/.env
-nightbite/.env
-
 # Python
 backend/venv/
 __pycache__/
@@ -16,3 +10,8 @@ nightbite/build/
 # OS
 .DS_Store
 Thumbs.dbbackend/.env 
+
+# Environment variables (VERY IMPORTANT)
+.env
+.env.*
+backend/.env
