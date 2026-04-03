@@ -15,3 +15,4 @@ Thumbs.db
 .env
 .env.*
 backend/.env
+backend/.env.example
